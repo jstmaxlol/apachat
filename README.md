@@ -6,3 +6,5 @@ cross-compatibility ✅\
 apathy ✅\
 usefulness ❌\
 c++ ✅
+
+###### jstmax! : <jstmaxlol@disroot.org> & <maxwasmailed@proton.me>
