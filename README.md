@@ -7,4 +7,4 @@ apathy ✅\
 usefulness ❌\
 c++ ✅
 
-###### jstmax! : <jstmaxlol@disroot.org> & <maxwasmailed@proton.me>
+###### jstmax! : <jstmaxlol@disroot.org>, <maxwasmailed@proton.me>
